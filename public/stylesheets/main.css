@@ -1,0 +1,10 @@
+#scrollBox{
+    position: relative;
+    border: 5px solid gray;
+    padding: 5px;
+    background: white;
+    width: 300px;
+    height: 400px;
+    overflow-y: scroll;
+}
+
